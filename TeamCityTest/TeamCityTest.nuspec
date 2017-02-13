@@ -6,7 +6,6 @@
     <title>TeamCityTest</title>
     <authors>TeamCityTest</authors>
     <owners>TeamCityTest</owners>
-    <iconUrl></iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>TeamCityTest</description>
     <releaseNotes>Initial release</releaseNotes>
