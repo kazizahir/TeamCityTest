@@ -1,0 +1,5 @@
+c:\users\kazi.zahir\documents\visual studio 2015\Projects\TeamCityTest\TeamCityTest\bin\Debug\TeamCityTest.dll
+c:\users\kazi.zahir\documents\visual studio 2015\Projects\TeamCityTest\TeamCityTest\bin\Debug\TeamCityTest.pdb
+c:\users\kazi.zahir\documents\visual studio 2015\Projects\TeamCityTest\TeamCityTest\obj\Debug\TeamCityTest.csprojResolveAssemblyReference.cache
+c:\users\kazi.zahir\documents\visual studio 2015\Projects\TeamCityTest\TeamCityTest\obj\Debug\TeamCityTest.dll
+c:\users\kazi.zahir\documents\visual studio 2015\Projects\TeamCityTest\TeamCityTest\obj\Debug\TeamCityTest.pdb
