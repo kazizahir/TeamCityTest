@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>TeamCityTest</id>
+    <version>$version$-alpha</version>
+    <title>TeamCityTest</title>
+    <authors>TeamCityTest</authors>
+    <owners>TeamCityTest</owners>
+    <iconUrl></iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>TeamCityTest</description>
+    <releaseNotes>Initial release</releaseNotes>
+    <copyright>Copyright 2016</copyright>
+    <tags></tags>
+  </metadata>
+</package>
