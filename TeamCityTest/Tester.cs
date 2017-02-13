@@ -10,7 +10,7 @@ namespace TeamCityTest
     {
         public string GetMessage()
         {
-            return "Test is working";
+            return "Test is working fine";
         }
     }
 }
